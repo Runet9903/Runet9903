@@ -23,12 +23,3 @@
   </div>
 
 ---
-<h3>I'm Park Chanwoo</h3>
-<h4>PHP와 Laravel, 그리고 Mysql 등을 공부하고 있습니다.</h4>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runet9903)](https://github.com/Runet9903/github-readme-stats)
-
-![Runet9903's github stats](https://github-readme-stats.vercel.app/api?username=Runet9903&show_icons=true)
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
